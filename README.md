@@ -13,6 +13,7 @@ Machine learning engineer and AI practitioner. Currently focused on applied NLP,
 | [Calibre MCP Server](https://github.com/alexchilton/CAS_NLP_Module3_Calibre_Project) | MCP server with semantic book search, duplicate detection, ISBN tools, Claude Desktop integration |
 | [Topic Analysis Dashboard](https://github.com/alexchilton/TopicAnalysis) | Full-stack multilingual sentiment analysis — BERTopic, XLM-RoBERTa, FastAPI, React, OpenTelemetry |
 | [GRPO Wordle Training](https://github.com/alexchilton/CAS_NLP_MODULE4_GRPO) | Training LLMs to play Wordle via GRPO — systematic analysis of three distinct failure modes across GPT-2, Qwen 2.5-3B, and Gemma 3 4B |
+| [TinyLlama LoRA Fine-Tuning](https://github.com/alexchilton/fine_tuning_tiny_llama_with_garden_questions) | LoRA fine-tuning of TinyLlama-1.1B on a gardening Q&A dataset — +268% BLEU, +77% ROUGE-1 vs base model |
 
 ### Computational Biology
 | Project | Description |
@@ -30,11 +31,11 @@ Machine learning engineer and AI practitioner. Currently focused on applied NLP,
 |---------|-------------|
 | [Fruit & Veg Classifier](https://github.com/alexchilton/CAS_Project) | Transfer learning (ResNet-50, InceptionV3) for 36-class produce recognition — includes data contamination case study, FastAPI service, webcam integration |
 
-### Data Science & ML
+### Data Science & Kaggle
 | Project | Description |
 |---------|-------------|
-| [HCT Survival — Kaggle](https://github.com/alexchilton/kaggle_survivor_comp) | Equity-aware survival analysis — XGBoost with custom C-Index metric penalising racial group disparity, 0.6766 CV score |
-| [Applications of AI — Bath](https://github.com/alexchilton/assignment1_2_applications) | RFC 4180 CSV parser from scratch + sentiment classification progressing from Naive Bayes to Longformer + LoRA |
+| [Kaggle Notebooks](https://github.com/alexchilton/kaggley) | Competition notebooks — NeurIPS 2025 Polymer Challenge (SMILES+RDKit+ChemBERT), HCT survival analysis, house prices ensemble (rank 363), SimCLR on Titanic, PINNs |
+| [HCT Survival — Full Project](https://github.com/alexchilton/kaggle_survivor_comp) | Equity-aware survival analysis — XGBoost with custom C-Index metric penalising racial group disparity, 0.6766 CV score |
 
 ### Mathematics
 | Project | Description |
@@ -46,6 +47,19 @@ Machine learning engineer and AI practitioner. Currently focused on applied NLP,
 |---------|-------------|
 | [GHAS Learning Environment](https://github.com/alexchilton/juice-shop) | OWASP Juice Shop fork configured for GitHub Advanced Security study — CodeQL, secret scanning, Dependabot, compliance workflows |
 | [OSS Scan Demo](https://github.com/alexchilton/oss-scan-demo) | Semgrep SAST + FOSSA licence scanning with GitHub Actions CI/CD |
+
+---
+
+## Coursework & Study
+
+| Repo | Contents |
+|------|----------|
+| [CAS Coursework](https://github.com/alexchilton/CAS-coursework) | Notes and materials from CAS Advanced Machine Learning and CAS Applied NLP — University of Bern |
+| [Online Courses](https://github.com/alexchilton/online-courses) | Coursera (IBM, DeepLearning.AI, FastAPI), Hugging Face courses, Docker, TypeScript, MLOps |
+| [University of Bath — Enigma Machine](https://github.com/alexchilton/bath_module1) | Full Enigma cipher machine simulation + cryptanalysis suite (5 progressive code-breaking challenges) |
+| [University of Bath — Math Methods](https://github.com/alexchilton/bath_module_2_math_methods) | Logic, set theory, linear algebra, calculus, probability, statistical inference |
+| [University of Bath — Applications of AI](https://github.com/alexchilton/assignment1_2_applications) | RFC 4180 CSV parser from scratch + sentiment classification (Naive Bayes → Longformer + LoRA) |
+| [GitHub Actions Course](https://github.com/alexchilton/github-actions-course) | GitHub Actions workflows, CI/CD patterns, TypeScript examples |
 
 ---
 
